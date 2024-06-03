@@ -1,6 +1,6 @@
 module Sg-27/go-docker
 
-go 1.22.3
+go 1.18
 
 require (
 	github.com/labstack/echo/v4 v4.12.0 // indirect
