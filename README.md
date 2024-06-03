@@ -1,1 +1,1 @@
-## Golang app with Github action and docker 
+## Golang app with Github action and docker registry
